@@ -20,6 +20,7 @@
 
 # How to create issue
 ## For Titles
-🚀PAGE : 
+🚀 PAGE : 
+🚀 FEAT : 
 💄 UI : 
 🐛 BUG : 
