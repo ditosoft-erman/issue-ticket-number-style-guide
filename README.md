@@ -15,3 +15,11 @@
 ### A proof your changes are working
 
 [insert a screenshot proof that the system is working]
+
+---
+
+# How to create issue
+## For Titles
+🚀PAGE : 
+💄 UI : 
+🐛 BUG : 
